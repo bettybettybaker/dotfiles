@@ -1,0 +1,25 @@
+# ——- CONFIG ——- 
+
+
+
+
+# ——- MISC ——- 
+
+alias c=clear
+alias h=history
+alias tr=‘trash’
+alias o=‘open’
+
+
+# ——- FILE SHORTCUTS ——-
+
+alias documents=cd\ ~/Documents
+alias docs=“cd ~/Documents”
+
+
+# ——- NAVIGATION ——-
+
+alias ..=cd\ ..
+alias ../=cd\ ../
+alias home=cd\ ~ && pwd
+alias la=ls\ -a
